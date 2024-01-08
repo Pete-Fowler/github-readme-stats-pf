@@ -40,6 +40,7 @@
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
   </p>
+  
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
     ·
